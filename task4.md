@@ -9,7 +9,7 @@ I designed a modern, user-friendly e-commerce interface for *Botanica*, an onlin
 ## Key Highlights:
 - **Visually appealing:** A nature-inspired color palette, clean typography, and vibrant product imagery to create an inviting and easy-to-read interface.  
 - **Easy to use:** Smooth navigation and responsive layouts to help customers quickly find products, view details, and complete their purchase seamlessly.  
-- **Categorized:** Clear product sections — Outdoor Plants 🌳, Indoor Plants 🪴, Saplings 🌱 and Fertilizers 🧪, to simplify browsing.  
+- **Categorized:** Clear product sections - Outdoor Plants 🌳, Indoor Plants 🪴, Saplings 🌱 and Fertilizers 🧪, to simplify browsing.  
 - **Searchable:** A smart search tool to help customers instantly locate products with accurate, relevant results.
 
 ## Design Focus:  
