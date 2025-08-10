@@ -1,4 +1,4 @@
-# Task 2: Email Template – *Studio Ciel Rose*  
+# ✉️ Task 2: Email Template – *Studio Ciel Rose*  
 
 ## Objective:  
 I designed a refined and visually elegant email template for *Studio Ciel Rose*, a brand specializing in **Elegant Design & Strategy**. The goal was to create a professional, engaging, and easy-to-use email format that allows businesses to send out marketing or promotional emails quickly while maintaining brand consistency.  
