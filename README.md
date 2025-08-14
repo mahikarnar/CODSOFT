@@ -14,7 +14,7 @@ During this internship, I worked on four hands-on UI/UX tasks that mirror real-w
 Each task has been documented in its own Markdown file:
 
 - [`task1.md`](./task1.md): **Mobile App Sign-Up Flow** – *Nimbus*
-- [`task2.md`](./task2.md): **Email Template** 
+- [`task2.md`](./task2.md): **Email Template** - *Studio Ciel Rose*
 - [`task3.md`](./task3.md): **Restaurant Menu** – *Sakura Slurp*
 - [`task4.md`](./task4.md): **E-commerce Website** – *Botanica*
 
